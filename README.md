@@ -1,1 +1,1 @@
-# Stefan-s-Law
+The verification of Stefan's law using the electrical method was conducted, and a linear regression model was applied to the data. The results indicate that the slope between log P and log R is 3.3487, which is approximately equal to 4. The model demonstrates a high level of accuracy, with an R² score of 99.19%.
